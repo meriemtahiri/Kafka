@@ -1,4 +1,4 @@
-# Activité Pratique N°1 : Architecture Orientée Événements
+# Activité Pratique N°3 - Event Driben Architecture avec KAFKA
 
 ## Partie 1 : Kafka
 
